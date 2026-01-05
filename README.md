@@ -1,3 +1,3 @@
 # 4win VPN
 
-Simple VPN client.
+Simple VPN multi method client.
